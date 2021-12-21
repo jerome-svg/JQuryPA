@@ -21,6 +21,7 @@ h2{
 }
 p{
     font-size: 20px;
+    text-align: center;
 }
 .form-design{
     padding: 30px;
@@ -28,4 +29,12 @@ p{
     border: solid 1px #555;
     width: 60%;
     border-radius: 5px;
+}
+
+.design{
+    background: rgb(214, 90, 90);
+    max-width: 500px;
+    padding: 20px;
+    margin: auto;
+    color: #fff;
 }
